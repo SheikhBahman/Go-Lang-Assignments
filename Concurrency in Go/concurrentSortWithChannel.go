@@ -4,6 +4,13 @@ Write a program to sort an array of integers. The program should partition the a
 The program should prompt the user to input a series of integers. Each goroutine which sorts ¼ of the array should print the subarray that it will sort. When sorting is complete, the main goroutine should print the entire sorted list.
 */
 
+/*///////////////////////////////
+Author: Bahman Sheikh
+Date: 9/14/2022
+Email: sheikh.bahman@gmail.com
+Copyright © 2022 Bahman Sheikh.
+//////////////////////////////*/
+
 package main
 
 import (

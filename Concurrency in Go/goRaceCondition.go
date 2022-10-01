@@ -1,3 +1,14 @@
+/*
+Write two goroutines which have a race condition when executed concurrently. Explain what the race condition is and how it can occur.
+*/
+
+/*///////////////////////////////
+Author: Bahman Sheikh
+Date: 9/01/2022
+Email: sheikh.bahman@gmail.com
+Copyright © 2022 Bahman Sheikh.
+//////////////////////////////*/
+
 package main
 
 import (
